@@ -1,0 +1,81 @@
+body{
+	background-color:grey;
+}
+
+#container{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+
+#topo-site{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: green;
+}
+
+#logo{
+	width: 300px;
+	height: 118px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px;
+	background-color:: yellow;
+}
+
+#redes-sociais{
+	width: 300px;
+	height: 118px;
+	float: right;
+	margin-right: 25px;
+	margin-top: 20px;
+	background-color: orange;
+}
+
+#menu-site{
+	width: 960px;
+	height: 450px;
+	background-color: black;
+	margin-top: 10px;
+	float: left;
+}
+
+#slide{
+	width: 960;
+	height: 450px;
+	background-color: blue;
+	margin-top: 10px;
+	float: left;
+}
+
+#rodape-site{
+	width: 281px;
+	height: 206px;
+	background-color: green;
+	margin-top: 40px;
+	float: left;
+	margin-left: 17px;
+	margin-right: 17px;
+	text-align: center;
+}
+
+#caixa-conteudo{
+	width: 281px;
+	height: 206px;
+	background-color: green;
+	margin-top: 40px;
+	float: left;
+	margin-left: 17px;
+	margin-right: 17px;
+	text-align: center;
+}
+
+#autor-site{
+	width: 960px;
+	height: 40px;
+	background-color: purple;
+	text-align: center;
+	float: left:
+}
